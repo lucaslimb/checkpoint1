@@ -3,7 +3,7 @@
 
 API com operações CRUD para controle de Pacientes utilizando Java Spring Boot
 
-## Stack Utilizada
+## 💻 Stack Utilizada
 
 - Java 17/18
 - Spring Boot 3.4.4
