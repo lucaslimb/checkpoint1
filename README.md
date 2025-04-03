@@ -1,9 +1,9 @@
-# Checkpoint 1 - Microservice and Web Engineering
+# ![Logo Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) Checkpoint 1 - Microservice and Web Engineering
 *Lucas de Lima - RM98632*
 
 API de Pacientes com operações CRUD
 
-## Instalação
+## 🔧 Instalação
 
 - Limpar e criar a pasta */target*
 
@@ -22,16 +22,16 @@ springdoc.swagger-ui.path=/
 springdoc.swagger-ui.disable-swagger-default-url=true
 ```
 
-## Navegação
+## 🌐 Navegação
 -  Executando com **Maven**
 
 ```
 mvn spring-boot:run
 ```
 
-## Documentação
+## 📖 Documentação
 -  Via **Swagger**, disponível em:
    - http://localhost:8080/
 
-## Referências
+## 📓 Referências
 - https://springdoc.org/
