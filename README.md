@@ -1,4 +1,4 @@
-# ![Logo Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) Checkpoint 1 - Microservice and Web Engineering
+# ☕︎ Checkpoint 1 - Microservice and Web Engineering
 *Lucas de Lima - RM98632*
 
 API de Pacientes com operações CRUD
